@@ -11,7 +11,7 @@
 # (but some of its options are not supported and will be ignored)
 #
 
-#-pool eu1.ethermine.org:9999 -pool2 us1.ethermine.org:9999
+#-pool eth-eu1.nanopool.org:9999 -pool2 eth-eu2.nanopool.org:9999
 #-0x4Da8EE34d8bA31ef1ffeA2159E53eeB0c886487D.eth-1
 #-proto 3
 #-cdm 2
