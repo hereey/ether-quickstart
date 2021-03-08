@@ -12,7 +12,7 @@
 #
 
 #-pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444
-#-wal YourEthWalletAddress.WorkerName
+#-0x4Da8EE34d8bA31ef1ffeA2159E53eeB0c886487D.ETH1
 #-proto 3
 #-cdm 2
 
